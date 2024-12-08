@@ -21,6 +21,12 @@
     padding: 20px;
     width: auto;  
 }
+.centerpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
 p{
     font-family: 'Courier New', monospace;
     line-height: 2;
