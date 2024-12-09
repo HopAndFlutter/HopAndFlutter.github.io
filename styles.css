@@ -25,15 +25,10 @@
     margin: 2px;
     background-color: #f0efed;
 }
-.navbarelement p{
-    color: #4c2b20;
-}
-.navbarelement a{
-    color: #4c2b20;
-}
 p{
     font-family: 'Courier New', monospace;
     line-height: 2;
+    color: #4c2b20;
 }
 h1{
     font-family: 'Courier New', monospace;
@@ -45,4 +40,8 @@ h2{
 }
 h3{
     font-family: 'Courier New', monospace;
+    color: #4c2b20;
+}
+a{
+    color: #4c2b20;
 }
