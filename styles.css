@@ -1,6 +1,5 @@
 .container {
     display: flex;
-    padding: 0px 35px 35px 0px;
 }
 .sidepannel{
     flex: 0;
@@ -21,7 +20,12 @@
     padding: 20px;
     width: auto;  
 }
-
+.navbarelement{
+    flex: 0;
+    flex: 1;
+    padding: auto;
+    background-colour: #969696;
+}
 p{
     font-family: 'Courier New', monospace;
     line-height: 2;
