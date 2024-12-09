@@ -21,10 +21,15 @@
     width: auto;  
 }
 .navbarelement{
-    flex: 0;
     flex: 1;
-    padding: auto;
-    background-colour: #969696;
+    margin: 2px;
+    background-color: #f0efed;
+}
+.navbarelement p{
+    color: #4c2b20;
+}
+.navbarelement a{
+    color: #4c2b20;
 }
 p{
     font-family: 'Courier New', monospace;
@@ -32,9 +37,11 @@ p{
 }
 h1{
     font-family: 'Courier New', monospace;
+    color: #4c2b20;
 }
 h2{
     font-family: 'Courier New', monospace;
+    color: #4c2b20;
 }
 h3{
     font-family: 'Courier New', monospace;
