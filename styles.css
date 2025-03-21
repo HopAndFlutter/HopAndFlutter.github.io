@@ -20,7 +20,8 @@
 .blogpost-content{
     flex: 1;
     padding-top: 0px; margin-top: -25px;
-    padding-left: 15px;
+    padding-left: 15px; margin-left: 0px;
+    padding-right: 0px; margin-right: 0px;
     padding-bottom: 0px; margin-bottom: -15px;
 
     border-top: 3px dotted #4c2b20;
@@ -42,8 +43,8 @@
     color: #4c2b20;
 }
 .blogpost-pic{
-    margin: auto;
-    padding: auto; 
+    margin: -15px 0px 0px 0px;
+    padding: 0px; 
 }
 
 .blogpost-pic div{
