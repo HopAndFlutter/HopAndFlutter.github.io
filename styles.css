@@ -1,6 +1,37 @@
 .container {
     display: flex;
 }
+.photo-shelf{
+    display: flex;
+    border: 2px dotted #ddd;
+    
+    padding: 5px 50px 5px 50px;
+
+
+}
+.photo-frame{
+    flex: 0;
+    margin: 0px 50px 0px 50px;
+    border: 5px solid #ccc;
+}
+
+.photo-frame img{
+    width: 300px;
+    padding: 0px;
+}
+
+.photo-footer{
+    margin: 0px 15px 0px 0px;
+    padding: 0px;
+ 
+    text-align: right;
+    font-size:65%;
+    font-family: 'Courier New, Monospace';
+    color: #4c2b20;
+}
+
+
+
 .blogpost-box{
     margin: 15px 15px;
     width: auto;
